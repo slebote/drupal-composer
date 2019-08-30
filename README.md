@@ -12,4 +12,4 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-- `1.8.0`, `1.8` [(1.8/Dockerfile)](https://github.com/slebote/drupal-composer/blob/master/1.8/Dockerfile)
+- `1.8.6`, `1.8`, `latest` [(1.8/Dockerfile)](https://github.com/slebote/drupal-composer/blob/master/1.8/Dockerfile)
